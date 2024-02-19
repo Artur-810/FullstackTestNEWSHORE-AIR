@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NEWSHORE AIR", "NEWSHORE AIR\NEWSHORE AIR.csproj", "{739FC8B4-7389-4D69-BE97-47CF1D4FC278}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest1", "UnitTest1\UnitTest1.csproj", "{C20026AD-C08B-4DB0-B507-CB4E38766D87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{739FC8B4-7389-4D69-BE97-47CF1D4FC278}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{739FC8B4-7389-4D69-BE97-47CF1D4FC278}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{739FC8B4-7389-4D69-BE97-47CF1D4FC278}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{739FC8B4-7389-4D69-BE97-47CF1D4FC278}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C20026AD-C08B-4DB0-B507-CB4E38766D87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C20026AD-C08B-4DB0-B507-CB4E38766D87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C20026AD-C08B-4DB0-B507-CB4E38766D87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C20026AD-C08B-4DB0-B507-CB4E38766D87}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CEB3B69E-4E37-48AA-9178-4F02E25FE036}
+	EndGlobalSection
+EndGlobal

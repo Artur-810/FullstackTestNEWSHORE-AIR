@@ -1,0 +1,33 @@
+[
+  {
+    "ContainingType": "Air.Controllers.FlightManagementController",
+    "Method": "CalculateJourney",
+    "RelativePath": "FlightManagement/CalculateJourney",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "origin",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "destination",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Air.Models.HttpMessage\u00601[[Air.Models.JourneyDto, NEWSHORE AIR, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

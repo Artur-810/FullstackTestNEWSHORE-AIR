@@ -1,0 +1,347 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\juan-\\source\\repos\\NEWSHORE AIR\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{739FC8B4-7389-4D69-BE97-47CF1D4FC278}|NEWSHORE AIR\\NEWSHORE AIR.csproj|c:\\users\\juan-\\source\\repos\\newshore air\\newshore air\\newshore air.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{739FC8B4-7389-4D69-BE97-47CF1D4FC278}|NEWSHORE AIR\\NEWSHORE AIR.csproj|solutionrelative:newshore air\\newshore air.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{739FC8B4-7389-4D69-BE97-47CF1D4FC278}|NEWSHORE AIR\\NEWSHORE AIR.csproj|c:\\users\\juan-\\source\\repos\\newshore air\\newshore air\\services\\flightmanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{739FC8B4-7389-4D69-BE97-47CF1D4FC278}|NEWSHORE AIR\\NEWSHORE AIR.csproj|solutionrelative:newshore air\\services\\flightmanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{739FC8B4-7389-4D69-BE97-47CF1D4FC278}|NEWSHORE AIR\\NEWSHORE AIR.csproj|c:\\users\\juan-\\source\\repos\\newshore air\\newshore air\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{739FC8B4-7389-4D69-BE97-47CF1D4FC278}|NEWSHORE AIR\\NEWSHORE AIR.csproj|solutionrelative:newshore air\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{739FC8B4-7389-4D69-BE97-47CF1D4FC278}|NEWSHORE AIR\\NEWSHORE AIR.csproj|c:\\users\\juan-\\source\\repos\\newshore air\\newshore air\\services\\responsiveservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{739FC8B4-7389-4D69-BE97-47CF1D4FC278}|NEWSHORE AIR\\NEWSHORE AIR.csproj|solutionrelative:newshore air\\services\\responsiveservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{739FC8B4-7389-4D69-BE97-47CF1D4FC278}|NEWSHORE AIR\\NEWSHORE AIR.csproj|c:\\users\\juan-\\source\\repos\\newshore air\\newshore air\\models\\transportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{739FC8B4-7389-4D69-BE97-47CF1D4FC278}|NEWSHORE AIR\\NEWSHORE AIR.csproj|solutionrelative:newshore air\\models\\transportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{739FC8B4-7389-4D69-BE97-47CF1D4FC278}|NEWSHORE AIR\\NEWSHORE AIR.csproj|c:\\users\\juan-\\source\\repos\\newshore air\\newshore air\\models\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{739FC8B4-7389-4D69-BE97-47CF1D4FC278}|NEWSHORE AIR\\NEWSHORE AIR.csproj|solutionrelative:newshore air\\models\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{739FC8B4-7389-4D69-BE97-47CF1D4FC278}|NEWSHORE AIR\\NEWSHORE AIR.csproj|c:\\users\\juan-\\source\\repos\\newshore air\\newshore air\\models\\journeydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{739FC8B4-7389-4D69-BE97-47CF1D4FC278}|NEWSHORE AIR\\NEWSHORE AIR.csproj|solutionrelative:newshore air\\models\\journeydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{739FC8B4-7389-4D69-BE97-47CF1D4FC278}|NEWSHORE AIR\\NEWSHORE AIR.csproj|c:\\users\\juan-\\source\\repos\\newshore air\\newshore air\\models\\httpmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{739FC8B4-7389-4D69-BE97-47CF1D4FC278}|NEWSHORE AIR\\NEWSHORE AIR.csproj|solutionrelative:newshore air\\models\\httpmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{739FC8B4-7389-4D69-BE97-47CF1D4FC278}|NEWSHORE AIR\\NEWSHORE AIR.csproj|c:\\users\\juan-\\source\\repos\\newshore air\\newshore air\\models\\flightdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{739FC8B4-7389-4D69-BE97-47CF1D4FC278}|NEWSHORE AIR\\NEWSHORE AIR.csproj|solutionrelative:newshore air\\models\\flightdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{739FC8B4-7389-4D69-BE97-47CF1D4FC278}|NEWSHORE AIR\\NEWSHORE AIR.csproj|c:\\users\\juan-\\source\\repos\\newshore air\\newshore air\\interfaces\\iresponsive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{739FC8B4-7389-4D69-BE97-47CF1D4FC278}|NEWSHORE AIR\\NEWSHORE AIR.csproj|solutionrelative:newshore air\\interfaces\\iresponsive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{739FC8B4-7389-4D69-BE97-47CF1D4FC278}|NEWSHORE AIR\\NEWSHORE AIR.csproj|c:\\users\\juan-\\source\\repos\\newshore air\\newshore air\\interfaces\\iflights.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{739FC8B4-7389-4D69-BE97-47CF1D4FC278}|NEWSHORE AIR\\NEWSHORE AIR.csproj|solutionrelative:newshore air\\interfaces\\iflights.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{739FC8B4-7389-4D69-BE97-47CF1D4FC278}|NEWSHORE AIR\\NEWSHORE AIR.csproj|c:\\users\\juan-\\source\\repos\\newshore air\\newshore air\\controllers\\flightmanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{739FC8B4-7389-4D69-BE97-47CF1D4FC278}|NEWSHORE AIR\\NEWSHORE AIR.csproj|solutionrelative:newshore air\\controllers\\flightmanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20026AD-C08B-4DB0-B507-CB4E38766D87}|UnitTest1\\UnitTest1.csproj|C:\\Users\\juan-\\source\\repos\\NEWSHORE AIR\\unittest1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C20026AD-C08B-4DB0-B507-CB4E38766D87}|UnitTest1\\UnitTest1.csproj|solutionrelative:unittest1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{739FC8B4-7389-4D69-BE97-47CF1D4FC278}|NEWSHORE AIR\\NEWSHORE AIR.csproj|c:\\users\\juan-\\source\\repos\\newshore air\\newshore air\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{739FC8B4-7389-4D69-BE97-47CF1D4FC278}|NEWSHORE AIR\\NEWSHORE AIR.csproj|solutionrelative:newshore air\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{739FC8B4-7389-4D69-BE97-47CF1D4FC278}|NEWSHORE AIR\\NEWSHORE AIR.csproj|c:\\users\\juan-\\source\\repos\\newshore air\\newshore air\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{739FC8B4-7389-4D69-BE97-47CF1D4FC278}|NEWSHORE AIR\\NEWSHORE AIR.csproj|solutionrelative:newshore air\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{739FC8B4-7389-4D69-BE97-47CF1D4FC278}|NEWSHORE AIR\\NEWSHORE AIR.csproj|c:\\users\\juan-\\source\\repos\\newshore air\\newshore air\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{739FC8B4-7389-4D69-BE97-47CF1D4FC278}|NEWSHORE AIR\\NEWSHORE AIR.csproj|solutionrelative:newshore air\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20026AD-C08B-4DB0-B507-CB4E38766D87}|UnitTest1\\UnitTest1.csproj|C:\\Users\\juan-\\source\\repos\\NEWSHORE AIR\\unittest1\\using.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C20026AD-C08B-4DB0-B507-CB4E38766D87}|UnitTest1\\UnitTest1.csproj|solutionrelative:unittest1\\using.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20026AD-C08B-4DB0-B507-CB4E38766D87}|UnitTest1\\UnitTest1.csproj|C:\\Users\\juan-\\source\\repos\\NEWSHORE AIR\\unittest1\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C20026AD-C08B-4DB0-B507-CB4E38766D87}|UnitTest1\\UnitTest1.csproj|solutionrelative:unittest1\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{739FC8B4-7389-4D69-BE97-47CF1D4FC278}|NEWSHORE AIR\\NEWSHORE AIR.csproj|c:\\users\\juan-\\source\\repos\\newshore air\\newshore air\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{739FC8B4-7389-4D69-BE97-47CF1D4FC278}|NEWSHORE AIR\\NEWSHORE AIR.csproj|solutionrelative:newshore air\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{739FC8B4-7389-4D69-BE97-47CF1D4FC278}|NEWSHORE AIR\\NEWSHORE AIR.csproj|c:\\users\\juan-\\source\\repos\\newshore air\\newshore air\\newshore air.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{739FC8B4-7389-4D69-BE97-47CF1D4FC278}|NEWSHORE AIR\\NEWSHORE AIR.csproj|solutionrelative:newshore air\\newshore air.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FlightManagementService.cs",
+              "DocumentMoniker": "C:\\Users\\juan-\\source\\repos\\NEWSHORE AIR\\NEWSHORE AIR\\Services\\FlightManagementService.cs",
+              "RelativeDocumentMoniker": "NEWSHORE AIR\\Services\\FlightManagementService.cs",
+              "ToolTip": "C:\\Users\\juan-\\source\\repos\\NEWSHORE AIR\\NEWSHORE AIR\\Services\\FlightManagementService.cs",
+              "RelativeToolTip": "NEWSHORE AIR\\Services\\FlightManagementService.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAowJYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T03:44:14.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IResponsive.cs",
+              "DocumentMoniker": "C:\\Users\\juan-\\source\\repos\\NEWSHORE AIR\\NEWSHORE AIR\\Interfaces\\IResponsive.cs",
+              "RelativeDocumentMoniker": "NEWSHORE AIR\\Interfaces\\IResponsive.cs",
+              "ToolTip": "C:\\Users\\juan-\\source\\repos\\NEWSHORE AIR\\NEWSHORE AIR\\Interfaces\\IResponsive.cs",
+              "RelativeToolTip": "NEWSHORE AIR\\Interfaces\\IResponsive.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T03:45:43.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FlightDto.cs",
+              "DocumentMoniker": "C:\\Users\\juan-\\source\\repos\\NEWSHORE AIR\\NEWSHORE AIR\\Models\\FlightDto.cs",
+              "RelativeDocumentMoniker": "NEWSHORE AIR\\Models\\FlightDto.cs",
+              "ToolTip": "C:\\Users\\juan-\\source\\repos\\NEWSHORE AIR\\NEWSHORE AIR\\Models\\FlightDto.cs",
+              "RelativeToolTip": "NEWSHORE AIR\\Models\\FlightDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBUAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T03:40:44.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HttpMessage.cs",
+              "DocumentMoniker": "C:\\Users\\juan-\\source\\repos\\NEWSHORE AIR\\NEWSHORE AIR\\Models\\HttpMessage.cs",
+              "RelativeDocumentMoniker": "NEWSHORE AIR\\Models\\HttpMessage.cs",
+              "ToolTip": "C:\\Users\\juan-\\source\\repos\\NEWSHORE AIR\\NEWSHORE AIR\\Models\\HttpMessage.cs",
+              "RelativeToolTip": "NEWSHORE AIR\\Models\\HttpMessage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T03:40:50.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JourneyDto.cs",
+              "DocumentMoniker": "C:\\Users\\juan-\\source\\repos\\NEWSHORE AIR\\NEWSHORE AIR\\Models\\JourneyDto.cs",
+              "RelativeDocumentMoniker": "NEWSHORE AIR\\Models\\JourneyDto.cs",
+              "ToolTip": "C:\\Users\\juan-\\source\\repos\\NEWSHORE AIR\\NEWSHORE AIR\\Models\\JourneyDto.cs",
+              "RelativeToolTip": "NEWSHORE AIR\\Models\\JourneyDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T03:41:10.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\juan-\\source\\repos\\NEWSHORE AIR\\NEWSHORE AIR\\Models\\ResponseDto.cs",
+              "RelativeDocumentMoniker": "NEWSHORE AIR\\Models\\ResponseDto.cs",
+              "ToolTip": "C:\\Users\\juan-\\source\\repos\\NEWSHORE AIR\\NEWSHORE AIR\\Models\\ResponseDto.cs",
+              "RelativeToolTip": "NEWSHORE AIR\\Models\\ResponseDto.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T03:41:29.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TransportDto.cs",
+              "DocumentMoniker": "C:\\Users\\juan-\\source\\repos\\NEWSHORE AIR\\NEWSHORE AIR\\Models\\TransportDto.cs",
+              "RelativeDocumentMoniker": "NEWSHORE AIR\\Models\\TransportDto.cs",
+              "ToolTip": "C:\\Users\\juan-\\source\\repos\\NEWSHORE AIR\\NEWSHORE AIR\\Models\\TransportDto.cs",
+              "RelativeToolTip": "NEWSHORE AIR\\Models\\TransportDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T03:42:26.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ResponsiveService.cs",
+              "DocumentMoniker": "C:\\Users\\juan-\\source\\repos\\NEWSHORE AIR\\NEWSHORE AIR\\Services\\ResponsiveService.cs",
+              "RelativeDocumentMoniker": "NEWSHORE AIR\\Services\\ResponsiveService.cs",
+              "ToolTip": "C:\\Users\\juan-\\source\\repos\\NEWSHORE AIR\\NEWSHORE AIR\\Services\\ResponsiveService.cs",
+              "RelativeToolTip": "NEWSHORE AIR\\Services\\ResponsiveService.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowDAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T03:46:47.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\juan-\\source\\repos\\NEWSHORE AIR\\NEWSHORE AIR\\Program.cs",
+              "RelativeDocumentMoniker": "NEWSHORE AIR\\Program.cs",
+              "ToolTip": "C:\\Users\\juan-\\source\\repos\\NEWSHORE AIR\\NEWSHORE AIR\\Program.cs",
+              "RelativeToolTip": "NEWSHORE AIR\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T04:02:55.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NEWSHORE AIR.csproj",
+              "DocumentMoniker": "C:\\Users\\juan-\\source\\repos\\NEWSHORE AIR\\NEWSHORE AIR\\NEWSHORE AIR.csproj",
+              "RelativeDocumentMoniker": "NEWSHORE AIR\\NEWSHORE AIR.csproj",
+              "ToolTip": "C:\\Users\\juan-\\source\\repos\\NEWSHORE AIR\\NEWSHORE AIR\\NEWSHORE AIR.csproj",
+              "RelativeToolTip": "NEWSHORE AIR\\NEWSHORE AIR.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-18T17:09:58.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IFlights.cs",
+              "DocumentMoniker": "C:\\Users\\juan-\\source\\repos\\NEWSHORE AIR\\NEWSHORE AIR\\Interfaces\\IFlights.cs",
+              "RelativeDocumentMoniker": "NEWSHORE AIR\\Interfaces\\IFlights.cs",
+              "ToolTip": "C:\\Users\\juan-\\source\\repos\\NEWSHORE AIR\\NEWSHORE AIR\\Interfaces\\IFlights.cs",
+              "RelativeToolTip": "NEWSHORE AIR\\Interfaces\\IFlights.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T20:12:16.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FlightManagementController.cs",
+              "DocumentMoniker": "C:\\Users\\juan-\\source\\repos\\NEWSHORE AIR\\NEWSHORE AIR\\Controllers\\FlightManagementController.cs",
+              "RelativeDocumentMoniker": "NEWSHORE AIR\\Controllers\\FlightManagementController.cs",
+              "ToolTip": "C:\\Users\\juan-\\source\\repos\\NEWSHORE AIR\\NEWSHORE AIR\\Controllers\\FlightManagementController.cs",
+              "RelativeToolTip": "NEWSHORE AIR\\Controllers\\FlightManagementController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAxwCQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T03:45:22.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\juan-\\source\\repos\\NEWSHORE AIR\\NEWSHORE AIR\\appsettings.json",
+              "RelativeDocumentMoniker": "NEWSHORE AIR\\appsettings.json",
+              "ToolTip": "C:\\Users\\juan-\\source\\repos\\NEWSHORE AIR\\NEWSHORE AIR\\appsettings.json",
+              "RelativeToolTip": "NEWSHORE AIR\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-18T16:11:08.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\juan-\\source\\repos\\NEWSHORE AIR\\NEWSHORE AIR\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "NEWSHORE AIR\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\juan-\\source\\repos\\NEWSHORE AIR\\NEWSHORE AIR\\Properties\\launchSettings.json",
+              "RelativeToolTip": "NEWSHORE AIR\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-18T16:53:06.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\juan-\\source\\repos\\NEWSHORE AIR\\NEWSHORE AIR\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "NEWSHORE AIR\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\juan-\\source\\repos\\NEWSHORE AIR\\NEWSHORE AIR\\WeatherForecast.cs",
+              "RelativeToolTip": "NEWSHORE AIR\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T16:28:42.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\juan-\\source\\repos\\NEWSHORE AIR\\UnitTest1\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "UnitTest1\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\juan-\\source\\repos\\NEWSHORE AIR\\UnitTest1\\UnitTest1.cs",
+              "RelativeToolTip": "UnitTest1\\UnitTest1.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACEAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T19:34:52.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\juan-\\source\\repos\\NEWSHORE AIR\\NEWSHORE AIR\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "NEWSHORE AIR\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\juan-\\source\\repos\\NEWSHORE AIR\\NEWSHORE AIR\\appsettings.Development.json",
+              "RelativeToolTip": "NEWSHORE AIR\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-18T16:12:31.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "NEWSHORE AIR.http",
+              "DocumentMoniker": "C:\\Users\\juan-\\source\\repos\\NEWSHORE AIR\\NEWSHORE AIR\\NEWSHORE AIR.http",
+              "RelativeDocumentMoniker": "NEWSHORE AIR\\NEWSHORE AIR.http",
+              "ToolTip": "C:\\Users\\juan-\\source\\repos\\NEWSHORE AIR\\NEWSHORE AIR\\NEWSHORE AIR.http",
+              "RelativeToolTip": "NEWSHORE AIR\\NEWSHORE AIR.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-02-18T17:44:24.17Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Using.cs",
+              "DocumentMoniker": "C:\\Users\\juan-\\source\\repos\\NEWSHORE AIR\\UnitTest1\\Using.cs",
+              "RelativeDocumentMoniker": "UnitTest1\\Using.cs",
+              "ToolTip": "C:\\Users\\juan-\\source\\repos\\NEWSHORE AIR\\UnitTest1\\Using.cs",
+              "RelativeToolTip": "UnitTest1\\Using.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T19:36:43.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\juan-\\source\\repos\\NEWSHORE AIR\\UnitTest1\\packages.config",
+              "RelativeDocumentMoniker": "UnitTest1\\packages.config",
+              "ToolTip": "C:\\Users\\juan-\\source\\repos\\NEWSHORE AIR\\UnitTest1\\packages.config",
+              "RelativeToolTip": "UnitTest1\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-02-18T19:35:37.012Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
