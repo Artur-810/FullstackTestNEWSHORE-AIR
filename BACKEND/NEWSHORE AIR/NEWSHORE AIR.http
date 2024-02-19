@@ -1,0 +1,6 @@
+@NEWSHORE_AIR_HostAddress = http://localhost:5286
+
+GET {{NEWSHORE_AIR_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
